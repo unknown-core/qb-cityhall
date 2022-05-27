@@ -54,7 +54,7 @@ Config.DrivingSchools = {
 Config.Peds = {
     -- Cityhall Ped
     {
-        model = 's_f_y_airhostess_01',
+        model = 'csb_agatha',
         coords = vec4(-549.87, -189.59, 37.22, 170.57),
         scenario = 'WORLD_HUMAN_STAND_MOBILE',
         cityhall = true,
