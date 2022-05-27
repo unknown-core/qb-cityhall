@@ -59,8 +59,8 @@ Config.Peds = {
         scenario = 'WORLD_HUMAN_STAND_MOBILE',
         cityhall = true,
         zoneOptions = { -- Used for when UseTarget is false
-            length = 3.0,
-            width = 3.0,
+            length = 5.0,
+            width = 5.0,
             debugPoly = false
         }
     },
